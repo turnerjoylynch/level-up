@@ -1,7 +1,7 @@
 import React from "react"
 import { Route } from "react-router-dom"
+import { EventList } from "./event/EventList.js"
 import { GameList } from "./game/GameList.js"
-import { EventList } from ".event/EventList.js"
 
 
 export const ApplicationViews = () => {
